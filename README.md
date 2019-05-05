@@ -37,3 +37,8 @@ Town:
 
 ![Town](
 https://i.gyazo.com/43b21daf60ddeb91eaa23ff5b452e1cb.png)
+
+UML class diagram overview: 
+
+![UML](
+https://i.gyazo.com/bd293450784247e13f7d5ae095cb8b00.png)
