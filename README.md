@@ -16,6 +16,7 @@ Features:
 * random dungeon generation 
 * 3 dungeon difficulties
 * infinite scaling progress 
+* 100% own & 'amazing' pixel graphics!
 
 Tavern:
 
